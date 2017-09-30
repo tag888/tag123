@@ -13,4 +13,7 @@ $ cd Spaghetti
 $ pip install -r requirements.txt
 $ python spaghetti.py
 ```
-[![asciicast](https://asciinema.org/a/ESeahrb5ySSS7Zqkl4BRTDENQ.png)](https://asciinema.org/a/ESeahrb5ySSS7Zqkl4BRTDENQ)
+## Example
+`python spaghetti --url site.com --scan 0 --random-agent --verbose`
+
+![img1](https://i.imgur.com/BCrrWNt.png)
