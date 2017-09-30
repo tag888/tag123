@@ -17,3 +17,4 @@ $ python spaghetti.py
 `python spaghetti --url site.com --scan 0 --random-agent --verbose`
 
 ![img1](https://i.imgur.com/BCrrWNt.png)
+![img2](https://i.imgur.com/kRRN6G4.png)
