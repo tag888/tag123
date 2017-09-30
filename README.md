@@ -16,20 +16,14 @@ $ python spaghetti.py
 ## Features
 - Fingerprints
   - Server
-  - Web Frameworks (CakePHP,CherryPy,Django,...)
-  - Web Application Firewall (Waf) (Cloudflare,AWS,Barracuda,...)
-  - Content Management System (CMS) (Drupal,Joomla,Wordpress,Magento)
-  - Operating System (Linux,Unix,Windows,...)
-  - Language (PHP,Ruby,Python,ASP,...)
+  - Web Frameworks (CakePHP,CherryPy,...)
+  - Web Application Firewall (Waf)
+  - Content Management System (CMS)
+  - Operating System (Linux,Unix,..)
+  - Language (PHP,Ruby,...)
 
 - Discovery:
-  
-  - Apache
-    - Apache (mod_userdir)
-    - Apache (mod_status)
-    - Apache multiviews
-    - Apache xss
-  
+
   - Bruteforce
     - Admin Interface
     - Common Backdoors
