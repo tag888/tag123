@@ -4,4 +4,4 @@
 Spaghetti is an Open Source web application scanner, it is designed to find various default and insecure files, configurations, and misconfigurations.
 Spaghetti is built on python2.7 and can run on any platform which has a Python environment.
 
-![logo](https://i.imgur.com/Ec3wrE9.png)
+![logo](https://i.imgur.com/sLETEV2.png)
