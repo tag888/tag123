@@ -11,6 +11,6 @@ Spaghetti is built on python2.7 and can run on any platform which has a Python e
 $ git clone https://github.com/m4ll0k/Spaghetti.git
 $ cd Spaghetti 
 $ pip install -r requirements.txt
-$ python spaghetti.py --help
+$ python spaghetti.py
 ```
 [![asciicast](https://asciinema.org/a/ESeahrb5ySSS7Zqkl4BRTDENQ.png)](https://asciinema.org/a/ESeahrb5ySSS7Zqkl4BRTDENQ)
