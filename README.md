@@ -13,3 +13,4 @@ $ cd Spaghetti
 $ pip install -r requirements.txt
 $ python spaghetti.py --help
 ```
+[![v](https://asciinema.org/a/ESeahrb5ySSS7Zqkl4BRTDENQ)](https://asciinema.org/a/ESeahrb5ySSS7Zqkl4BRTDENQ)
