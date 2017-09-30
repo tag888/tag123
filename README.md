@@ -13,6 +13,64 @@ $ cd Spaghetti
 $ pip install -r requirements.txt
 $ python spaghetti.py
 ```
+## Features
+- Fingerprints
+  - Server
+  - Web Frameworks (CakePHP,CherryPy,Django,...)
+  - Web Application Firewall (Waf) (Cloudflare,AWS,Barracuda,...)
+  - Content Management System (CMS) (Drupal,Joomla,Wordpress,Magento)
+  - Operating System (Linux,Unix,Windows,...)
+  - Language (PHP,Ruby,Python,ASP,...)
+
+- Discovery:
+  
+  - Apache
+    - Apache (mod_userdir)
+    - Apache (mod_status)
+    - Apache multiviews
+    - Apache xss
+  
+  - Bruteforce
+    - Admin Interface
+    - Common Backdoors
+    - Common Backup Directory
+    - Common Backup File
+    - Common Directory
+    - Common File
+    - Log File
+  
+  - Disclosure
+    - Emails
+    - Private IP
+    - Credit Cards
+  
+  - Attacks
+    - HTML Injection
+    - SQL Injection
+    - LDAP Injection
+    - XPath Injection
+    - Cross Site Scripting (XSS)
+    - Remote File Inclusion (RFI)
+    - PHP Code Injection
+    
+  - Other
+    - HTTP Allow Methods
+    - HTML Object
+    - Multiple Index
+    - Robots Paths
+    - Cookie Security
+    - Web Dav
+    - Cross Site Tracing (XST)
+    - PHPINFO
+    - .Listing
+    
+  - Vulns
+    - ShellShock
+    - Anonymous Cipher (CVE-2007-1858)
+    - Crime (SPDY) (CVE-2012-4929)
+    - Struts-Shock
+
+
 ## Example
 `python spaghetti --url site.com --scan 0 --random-agent --verbose`
 
