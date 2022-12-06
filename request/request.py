@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 #
 # @name:    Spaghetti - Web Application Security Scanner
-# @repo:    https://github.com/m4ll0k/Spaghetti
+# @repo:    https://github.com/tag888/tag.git
 # @author:  Momo Outaadi (M4ll0k)
 # @license: See the file 'LICENSE.txt'
 

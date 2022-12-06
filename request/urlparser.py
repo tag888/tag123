@@ -2,19 +2,19 @@
 # -*- coding:utf-8 -*-
 #
 # @name:    Spaghetti - Web Application Security Scanner
-# @repo:    https://github.com/m4ll0k/Spaghetti
+# @repo:    https://github.com/tag888/tag.git
 # @author:  Momo Outaadi (M4ll0k)
 # @license: See the file 'LICENSE.txt'
 
-import urlparse
+import urlparser
 
 class UrlParser:
 	def __init__(self,url):
 		self.url = url 
-		self.scheme = urlparse.urlsplit(url).scheme
-		self.netloc = urlparse.urlsplit(url).netloc
-		self.path = urlparse.urlsplit(url).path
-		self.query = urlparse.urlsplit(url).query
+		self.scheme = urlparser.urlsplit(url).scheme
+		self.netloc = urlparser.urlsplit(url).netloc
+		self.path = urlparser.urlsplit(url).path
+		self.query = urlparser.urlsplit(url).query
 
 	def host(self):
 		if self.netloc == "":
