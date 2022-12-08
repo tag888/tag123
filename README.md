@@ -8,7 +8,7 @@ tag is an Open Source web application scanner, it is designed to find various de
 
 ## Installation
 ```
-$ git clone https://github.com/tag888/tag.git
+$ git clone https://github.com/tag888/tag123.git
 $ cd tag 
 $ pip install -r requirements.txt
 $ python tag.py
